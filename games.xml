@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gameslibrary>
+	<!--
+	<game id="">
+		<name></name>
+		<description></description>
+		<rating></rating>
+		<genre></genre>
+		<developer></developer>
+		<publisher></publisher>
+		<platform></platform>
+		<art></art>
+	</game>
+	-->
+
+	<game id="0">
+		<name>L.A. Noire</name>
+		<description>L.A. Noire is a neo-noir detective action-adventure video game developed by Team Bondi and published by Rockstar Games.</description>
+		<genre>Adventure</genre>
+	</game>
+	<game id="1">
+		<name>Super Mario Odyssey</name>
+		<description>Super Mario Odyssey is an upcoming 3D platform video game developed and published by Nintendo for the Nintendo Switch, set for release worldwide on October 27, 2017.</description>
+		<genre>Adventure</genre>
+	</game>
+	<game id="2">
+		<name>Snipperclips</name>
+		<description>Snipperclips: Cut It Out, Together! is a puzzle game developed by SFB Games and published by Nintendo for the Nintendo Switch. The game was released worldwide as a launch title for the Nintendo Switch on March 3, 2017.</description>
+		<genre>Puzzle</genre>
+	</game>
+	<game id="3">
+		<name>Fast RMX</name>
+		<description>Fast RMX is a racing video game developed and published by Shin'en Multimedia exclusively for the Nintendo Switch.</description>
+		<genre>Racing</genre>
+	</game>
+	<game id="4">
+		<name>Stardew Valley</name>
+		<description>Stardew Valley is an indie farming simulation role-playing video game developed by Eric "ConcernedApe" Barone and published by Chucklefish.</description>
+		<genre>RPG</genre>
+	</game>
+	<game id="5">
+		<name>Destiny 2</name>
+		<description>Destiny 2 is an online-only multiplayer first-person shooter video game developed by Bungie and published by Activision.</description>
+		<genre>Action</genre>
+	</game>
+<game id="6">
+    <name>Pokemon Ruby</name>
+    <description>Game created by GameFreak for the Nintendo Gameboy Advance</description>
+    <genre>RPG</genre>
+  </game>
+<game id="7">
+    <name>The Elder Scrolls V: Skyrim</name>
+    <description>An RPG developed by Bethesda for almost every single gaming system.</description>
+    <genre>RPG</genre>
+  </game>
+<game id="8">
+    <name>Mario + Rabbids: Kingdom Battle</name>
+    <description>A strategy game developed by Ubisoft for the Nintendo Switch</description>
+    <genre>Strategy</genre>
+  </game>
+	<game id="9">
+    <name>Sonic the Hedgehog</name>
+    <description>The fist game Sega's blue mascot ever appeared in, originally developed for the Sega Genesis.</description>
+    <genre>Platformer</genre>
+  </game>
+<game id="10">
+    <name>Chrono Trigger</name>
+    <description>An RPG developed for the SNES</description>
+    <genre>RPG</genre>
+  </game>
+<game id="11">
+    <name>Doom (2016)</name>
+    <description>Game developed by Id Software</description>
+    <genre>Shooter</genre>
+  </game>
+<game id="12">
+    <name>Euro Truck Simulator 2</name>
+    <description>Some simulation game idk</description>
+    <genre>Simulation</genre>
+  </game>
+<game id="13">
+    <name>Farming Simulator 2017</name>
+    <description>Live your wildest farm fantasy out!</description>
+    <genre>Simulation</genre>
+  </game>
+<game id="14">
+    <name>Fez</name>
+    <description>A really good game made by a really bad guy</description>
+    <genre>Platformer</genre>
+  </game>
+<game id="15">
+    <name>Super Mario Galaxy</name>
+    <description>Game developed by Nintendo for the Nintendo Wii</description>
+    <genre>Platformer</genre>
+  </game>
+<game id="16">
+    <name>Mafia II</name>
+    <description>A game developed by a game studio I can't remember which one :(</description>
+    <genre>Action</genre>
+  </game>
+<game id="17">
+    <name>Super Mario Bros.</name>
+    <description>Classic game for the NES</description>
+    <genre>Platformer</genre>
+  </game>
+<game id="18">
+    <name>Little Big Planet</name>
+    <description>A platformer that lets you create your own levels.</description>
+    <genre>Platformer</genre>
+  </game>
+<game id="19">
+    <name>MineCraft</name>
+    <description>A game where you mine and... craft</description>
+    <genre>Adventure</genre>
+  </game>
+<game id="20">
+    <name>Sonic the Hedgehog 2</name>
+    <description>Sequel to Sonic the Hedgehog... obviously</description>
+    <genre>Platformer</genre>
+  </game>
+<game id="21">
+    <name>Red Dead Redemption</name>
+    <description>A game set in the wild west, published by Rockstar</description>
+    <genre>Action</genre>
+  </game>
+<game id="22">
+    <name>ARMS</name>
+    <description>A fighting game developed by Nintendo for the Nintendo Switch</description>
+    <genre>Fighting</genre>
+  </game>
+<game id="23">
+    <name>Undertale</name>
+    <description>An RPG developed by Toby Fox, using GameMaker (eww)</description>
+    <genre>RPG</genre>
+  </game>
+<game id="24">
+    <name>Call of Duty: Black Ops</name>
+    <description>A really good game, particularly for its zombies hoard mode</description>
+    <genre>Shooter</genre>
+  </game>
+<game id="25">
+    <name>Madden 18</name>
+    <description>A football game</description>
+    <genre>Sports</genre>
+  </game>
+<game id="26">
+    <name>Kirby: Nightmare in Dream Land</name>
+    <description>Just a really feelgood game :)</description>
+    <genre>Platformer</genre>
+  </game>
+<game id="27">
+    <name>Portal 2</name>
+    <description>A really good puzzle game developed by Valve</description>
+    <genre>Puzzle</genre>
+  </game>
+<game id="28">
+    <name>Super Mario Bros 3</name>
+    <description>Platformer</description>
+    <genre>Platformer</genre>
+  </game>
+<game id="29">
+    <name>Zelda: Skyward Sword</name>
+    <description>An adventure/puzzle game developed by Nintendo for the Nintendo Wii</description>
+    <genre>Adventure</genre>
+  </game>
+<game id="30">
+    <name>Grand Theft Auto V</name>
+    <description/>
+    <genre>Action</genre>
+  </game>
+<game id="31">
+    <name>Bioshock 2</name>
+    <description>Game developed by 2K.</description>
+    <genre>Action</genre>
+  </game>
+<game id="32">
+    <name>Zelda: Breath of the Wild</name>
+    <description>Game developed by Nintendo</description>
+    <genre>Adventure</genre>
+  </game>
+<game id="33">
+    <name>Bioshock</name>
+    <description>Developed by 2K. "The Big Wett"</description>
+    <genre>Action</genre>
+  </game>
+<game id="34">
+    <name>P4</name>
+    <description>rpg</description>
+    <genre>RPG</genre>
+  </game>
+<game id="35">
+    <name>Tekken 6</name>
+    <description>Fighting Game</description>
+    <genre>Fighting</genre>
+  </game>
+</gameslibrary>

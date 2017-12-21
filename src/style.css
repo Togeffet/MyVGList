@@ -1,0 +1,151 @@
+ * {
+    -fx-box-border: transparent;
+ }
+ 
+ .navBar {
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, .3, 0, 0);
+	-fx-background-color: #37464f;
+}
+.logo {
+	-fx-font-family: "Oswald";
+	-fx-font-size: 57px;
+	-fx-text-fill: white;
+}
+/* #accountImg {
+	-fx-background-image: url("../assets/account_circle.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: cover, auto;
+	-fx-background-position: bottom;
+}*/
+.gameIcon {
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 10, .3, 0, 0);
+    -fx-background-color: #F5F5F6;
+    
+}
+.gameArt {
+	-fx-background-color: blue;
+	-fx-cursor: hand
+}
+.gameTitle {
+	-fx-font-family: "Roboto Medium";
+	-fx-font-size: 18px;
+	-fx-cursor: hand
+}
+.gameName {
+	-fx-font-family: "Roboto Black";
+	-fx-font-size: 30px;
+}
+
+.gameGenre {
+	-fx-font-family: "Roboto Medium";
+	-fx-font-size: 16px;
+}
+.queueTitle {
+	-fx-font-family: "Roboto Medium";
+	-fx-font-size: 24px;
+}
+.accountName {
+	-fx-font-family: "Roboto Black";
+	-fx-font-size: 24px;
+}
+.accountStats {
+	-fx-font-family: "Roboto Light";
+	-fx-font-size: 18px;
+}
+.topGamesTitle {
+	-fx-font-family: "Roboto Medium";
+	-fx-font-size: 18px;
+}
+.topGame {
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 10, .3, 0, 0);
+}
+.addGameText {
+	-fx-font-family: "Roboto Light";
+	-fx-font-size: 20px;
+}
+#icon_1 {
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 10, .3, 0, 0);
+}
+.heart, .heartClicked, .check, .checkClicked, .backLog, .backLogClicked, .top4, .top4Clicked {
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: 24px, 24px;
+	-fx-background-position: center;
+	-fx-cursor: hand;
+}
+.heart {
+	-fx-opacity: 0.5;
+	-fx-background-image: url("../assets/heart-outline.png");
+}
+.heartClicked {
+	-fx-background-image: url("../assets/heart.png");
+}
+.check {
+	-fx-opacity: 0.5;
+	-fx-background-image: url("../assets/check.png");
+}
+.checkClicked {
+	-fx-background-image: url("../assets/check.png");
+}
+.backLog {
+	-fx-opacity: 0.5;
+	-fx-background-image: url("../assets/clock.png");
+}
+.backLogClicked {
+	-fx-background-image: url("../assets/clock.png");
+}
+.top4 {
+	-fx-opacity: 0.5;
+	-fx-background-image: url("../assets/trophy-outline.png");
+}
+.top4Clicked {
+	-fx-background-image: url("../assets/trophy.png");
+}
+.split-pane *.split-pane-divider {
+    -fx-padding: 0 0 0 0;
+}
+
+.black {
+	-fx-background-color: black;
+}
+.blue {
+	-fx-background-color: blue;
+}
+.red {
+	-fx-background-color: red;
+}
+
+.accountLeft {
+	-fx-background-color: #E1E2E1;
+}
+
+.hbox {
+	
+}
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+.scroll-bar {
+	-fx-font-size: 10px;
+}
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color:transparent;
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #E1E2E1;
+    -fx-background-radius: 5em;
+}
+
